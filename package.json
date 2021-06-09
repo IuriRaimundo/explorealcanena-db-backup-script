@@ -1,0 +1,17 @@
+{
+  "name": "Explore Alcanena Backup script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "private": true,
+  "dependencies": {
+    "firebase-admin": "9.9.0",
+    "nodemailer": "6.6.1"
+  }
+}
